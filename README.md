@@ -1,7 +1,7 @@
 # MLI
 Machine learning Implementations
 
-## SUB HEADER
+## subheader
 
-Using Github Demo.
+want to implement some basic algorithm in machine learning.
 
